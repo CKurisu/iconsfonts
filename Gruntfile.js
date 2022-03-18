@@ -475,5 +475,5 @@ module.exports = function (grunt) {
     "build-customizer",
   ]);
 
-  grunt.registerTask("prep-release", ["dist", "docs", "jekyll:github"]);
+  grunt.registerTask("prep-release", ["dist", "docs"]);
 };
