@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "iconsfonts",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "3.4.0",
   "keywords": [
@@ -20,7 +20,7 @@
     "change-version": "node grunt/change-version.js",
     "test": "grunt test"
   },
-  "style": "dist/css/bootstrap.css",
+  "style": "dist/bootstrap/css/bootstrap.css",
   "less": "less/bootstrap.less",
   "main": "./dist/js/npm",
   "repository": {
@@ -78,6 +78,7 @@
   "files": [
     "dist",
     "fonts",
+    "webfonts",
     "grunt",
     "js/*.js",
     "less/**/*.less",
@@ -95,6 +96,7 @@
     "files": [
       "css",
       "fonts",
+      "webfonts",
       "js"
     ]
   }

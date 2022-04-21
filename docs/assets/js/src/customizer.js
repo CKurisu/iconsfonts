@@ -199,7 +199,7 @@ window.onload = function () { // wait for load in a dumb way because B-0
   function compileLESS(lessSource, baseFilename, intoResult) {
     var promise = $.Deferred()
     var parser = new less.Parser({
-      paths: ['variables.less', 'mixins.less'],
+      paths: ['variables.less'],
       optimization: 0,
       filename: baseFilename + '.css'
     })

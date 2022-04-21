@@ -37,8 +37,8 @@ sass_repo: https://github.com/CKurisu/iconsfonts-sass
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
   css:            https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css
-  css_hash:       "sha384-PmY9l28YgO4JwMKbTvgaS7XNZJ30MK9FAZjjzXtlqyZCqBY6X6bXIkM++IkyinN+"
+  css_hash:       "sha384-XqdTYMhEw7L+zMnc2RRxZatc8qMFAA+wGiuovZq4hQ6asWFIqCmb31QPmCWWql8D"
   css_theme:      https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap-theme.min.css
-  css_theme_hash: "sha384-jzngWsPS6op3fgRCDTESqrEJwRKck+CILhJVO5VvaAZCq8JYf8HsR/HPpBOOPZfR"
+  css_theme_hash: "sha384-hC3Ueg6/iOQ2QPtSDrvg1InlVp2zeM+N2VvqRHZ0GOy1Yrt+NWt0AGQ3RJTTPn7S"
   js:             https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js
   js_hash:        "sha384-yyV0wQoeR+3RUXUDBpZKT+/jF14z1kqBmBluzZ0FBluQxi3g7xIsZOByNNu0PNeZ"
